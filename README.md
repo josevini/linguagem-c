@@ -1,2 +1,2 @@
-# linguagem-c
- Meu repositório com exercícios de Linguagem C
+# Linguagem C
+ Meu repositório com exercícios de Linguagem C.
