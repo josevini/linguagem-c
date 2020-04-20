@@ -1,0 +1,11 @@
+#define VS const
+
+* #define é uma diretiva de pré-processamento
+
+* const é uma palavra reservada do C
+
+* com #define, o valor é substituído antes da compilação
+
+* com const, a constante existe na memória
+
+* com const, é possível indicar o tipo primitivo da constante

@@ -1,0 +1,21 @@
+Caracteres de Formatação
+
+%d - int
+
+%f - float/double
+
+%c - char
+
+%s - cadeia/string
+
+%e - notação
+
+%hd - short int
+
+%ld - long int
+
+%hu - unsigned short
+
+%u - unsigned
+
+%lu - unsigned long

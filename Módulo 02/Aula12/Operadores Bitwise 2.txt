@@ -1,0 +1,5 @@
+Operadores bit a bit - deslocamento
+
+Right Shift - >>
+
+Left Shift - <<

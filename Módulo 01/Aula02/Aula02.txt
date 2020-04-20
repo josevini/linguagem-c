@@ -1,0 +1,5 @@
+Comentários
+
+// => Uma linha
+
+/**/ => Multe linha

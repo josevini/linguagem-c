@@ -1,0 +1,13 @@
+Aritméticos
+
+Casting
+
+Atribuição
+
+Incremento/Decremento
+
+Relacionais
+
+Lógicos
+
+Bitwise/Bit a Bit

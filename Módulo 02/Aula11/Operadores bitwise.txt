@@ -1,0 +1,7 @@
+Operadores bit a bit
+
+& - conjunção
+
+| - disjunção
+
+^ - disjunção exclusiva

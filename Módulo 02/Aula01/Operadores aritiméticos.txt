@@ -1,0 +1,7 @@
++ => soma
+
+- => subtração
+
+* => multiplicação
+
+/ => divisão

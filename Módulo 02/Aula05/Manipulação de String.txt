@@ -1,0 +1,15 @@
+Biblioteca - String.h
+
+Funções
+
+- strcpy(); \\ Joga uma string dentro de uma variável
+
+- strlen(); \\ Diz o tamanho de uma string
+
+- strcmp(); \\ Compara duas strings
+
+- strcat(); \\ Faz concatenação
+
+- strupr(); \\ Deixa a string maiúscula
+
+- strlwr(); \\ Deixa a string minúscula

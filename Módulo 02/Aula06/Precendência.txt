@@ -1,0 +1,7 @@
+Ordem de precendência boleana
+
+1 - !
+
+2 - &&
+
+3 - ||

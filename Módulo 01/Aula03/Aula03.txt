@@ -1,0 +1,17 @@
+Tpos Primitivos
+
+char
+
+int{
+    Prefixos/Configuração Prefixal
+    short
+    long
+    signed
+    unsigned
+}
+
+float
+
+double
+
+void

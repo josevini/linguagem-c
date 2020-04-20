@@ -1,0 +1,9 @@
+Ordem de precendência aritmética
+
+1 => ( )
+
+2 => + - \\ Unários
+
+3 => * / % \\ Sempre da esquerda pra direita
+
+4 => + - \\ Binários

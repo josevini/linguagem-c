@@ -1,0 +1,5 @@
+&& - conjunção
+
+|| - disjunção
+
+! - negação

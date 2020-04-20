@@ -1,0 +1,17 @@
+time.h
+
+tm_mday - dia do mês [1-31]
+
+tm_mon - mês [0-11]
+
+tm_year - ano [a partir de 1900]
+
+tm_wday - dia da semana [0-6]
+
+tm_yday - dia do ano [0-365]
+
+tm_hour - hora [0-23]
+
+tm_min - minutos [0-59]
+
+tm_sec - segundos [0-59]
